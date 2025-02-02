@@ -1,4 +1,4 @@
--- SQL script to insert multiple rows into the customers table
+USE alx_bookstore;
 INSERT INTO customers (customer_id, customer_name, email, address)
 VALUES 
     (2, 'Blessing Malik', 'bmalik@sandtech.com', '124 Happiness Ave.'),
